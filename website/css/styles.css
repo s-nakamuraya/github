@@ -1,0 +1,13 @@
+/* キャラセットを日本語にする */
+
+.info {
+    color: royalblue;
+}
+
+.box1 {
+    /* color: sienna; */
+    border-style: solid;
+    border-right: none;
+    border-left: none;
+    text-align: center;
+}
